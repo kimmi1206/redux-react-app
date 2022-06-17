@@ -1,2 +1,2 @@
-# redux-react-app-practice
+# redux-react-app
 React with Redux App
